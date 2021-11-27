@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MovingPlatform
+  - Enemy
+  - Heart
+  - Coin
+  - CongChua
+  - Save
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Item
+  - Wall
+  - Water
+  - Enemy
+  - background
+  - loadlevel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backGround
+    uniqueID: 604179161
+    locked: 0
+  - name: enemy
+    uniqueID: 1723506659
+    locked: 0
+  - name: forceground
+    uniqueID: 2607946921
+    locked: 0
+  - name: player
+    uniqueID: 3501938515
+    locked: 0
+  - name: loadlevel
+    uniqueID: 2714243681
+    locked: 0

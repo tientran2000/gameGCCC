@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0701f4199efc7444c8a49016cf7c0f77
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sfx_landing: {fileID: 8300000, guid: d1217201958f2c440b4759b34948c4a7, type: 3}
+  - sfx_cherry: {fileID: 8300000, guid: a0e24adfb335e9441bb7c21198d1ed26, type: 3}
+  - music_tiktok: {instanceID: 0}
+  - music: {fileID: 8300000, guid: 7d8f7350ac8d0d246b75741901a774fe, type: 3}
+  - currentMusicObject: {instanceID: 0}
+  - soundObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
